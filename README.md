@@ -20,7 +20,7 @@ book-basic/
 │   ├── ch04_pytorch_basics.ipynb
 │   ├── ch13_classification_e2e.ipynb   ← 分類の実装ガイド
 │   └── ...
-├── code/               ← 章をまたいで使う部品（Dataset、損失関数、評価指標など）
+├── code/               ← 章をまたいで使う共通コード（Dataset、損失関数、評価指標など）
 │   ├── datasets.py
 │   ├── losses.py
 │   └── metrics.py
